@@ -1,0 +1,15 @@
+﻿✅ Что делать по порядку
+
+1    Создай папку cstrike-server\ и закинь туда все .bat, .ps1, .md, .gitignore.
+
+2    Запусти update_hlds.bat — скачает HLDS (~300 МБ).
+
+3    Запусти firewall.ps1 от админа — откроет порты.
+
+4    Положи server.cfg, motd.txt, mapcycle.txt в hlds\cstrike\, а plugins.ini / modules.ini / users.ini — в hlds\cstrike\addons\amxmodx\configs\ (после установки AMXX).
+
+5    Скачай AMX Mod X 1.10 → https://www.amxmodx.org/downloads.php → распакуй в hlds\cstrike\.
+
+6    Пробрось на роутере 27015 UDP/TCP + 27020 UDP.
+
+7    Запускай start_server.bat и заходи через connect IP:27015.

@@ -1,0 +1,27 @@
+# HLDS / SteamCMD
+hlds/
+steamcmd/
+
+# Исполняемые файлы
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Логи
+logs/
+*.log
+
+# Быстрые загрузки
+downloads/
+
+# Кэш SteamCMD
+steamapps/
+public/
+package/
+steamcmd.cfg
+
+# Система
+.DS_Store
+Thumbs.db
+*.tmp

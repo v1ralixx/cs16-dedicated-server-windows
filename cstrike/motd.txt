@@ -1,0 +1,33 @@
+﻿<html>
+<head><title>CS 1.6 Server</title></head>
+<body bgcolor="#111111" text="#00ff88" link="#ffff00">
+
+<center>
+<h2>★ Добро пожаловать на сервер ★</h2>
+</center>
+
+<hr color="#00ff88">
+
+<b>Правила:</b>
+<ul>
+  <li>Без читов и скриптов (AIM, WH, Bhop-скрипты) — бан навсегда.</li>
+  <li>Без оскорблений и спама в чате.</li>
+  <li>Без тимкилла специально (наказывается автоматически).</li>
+  <li>Уважай админов и игроков.</li>
+</ul>
+
+<b>Команды:</b>
+<ul>
+  <li><code>timeleft</code> — остаток времени карты</li>
+  <li><code>nextmap</code> — следующая карта</li>
+  <li><code>rank</code>, <code>top15</code> — статистика</li>
+  <li><code>/menu</code> — меню игрока</li>
+</ul>
+
+<hr color="#00ff88">
+<center>
+<i>Приятной игры!</i>
+</center>
+
+</body>
+</html>
